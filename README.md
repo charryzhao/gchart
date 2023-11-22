@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Resize angle, count, and stage on keypoint number change (#7598)
