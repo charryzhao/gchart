@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Merge pull request #22 from SkalskiP/patch-1
